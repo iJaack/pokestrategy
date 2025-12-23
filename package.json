@@ -1,5 +1,5 @@
 {
-  "name": "pokestrategy",
+  "name": "pokestrategy", // Ash Strategy - Pokémon TCG Tokenization Platform
   "version": "0.1.0",
   "private": true,
   "scripts": {
