@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+// App Router root layout
 import './globals.css'
 
 export const metadata: Metadata = {
