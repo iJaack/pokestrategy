@@ -1,4 +1,5 @@
 export const dynamic = 'force-dynamic';
+// Force rebuild
 
 export default function Home() {
   return (
